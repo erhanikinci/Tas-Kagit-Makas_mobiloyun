@@ -36,7 +36,7 @@
      Bu uygulama Playstore’dan Telefon|Tablet|Bilgisayar’ dan indirilip cihaza yüklendiğinde
      aşağıdaki resimde okların gösterildiği gibi bir simge ile cihaza yüklenmiş olur.
      Uygulama çalışır vaziyette cihazda yüklenmiştir. Şekilde gösterildiği gibi uygulamaya çift tıklanır ve oyun açılır.
-  
+![Screenshot_2020-10-27-21-40-12-831_com miui home](https://user-images.githubusercontent.com/81168263/154969977-ff0c41f9-0f30-4e7d-9546-947c6fe00213.jpg)  
 ## Açılış Ekranı
     Uygulamaya çift tıkladıktan sonra oyun açılır görünüm aşağıdaki gibidir. Oyun açıldığında Kullanıcı aşağıdaki ekran görüntüsüne erişecektir. 
     Oyun kullanıcının bilgisayara karşı oynama durumu aşağıdaki gibi ekranda belirir, oyunda aşağıda görüldüğü gibi 3 adet buton bulunmaktadır. 
