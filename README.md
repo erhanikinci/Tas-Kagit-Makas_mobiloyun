@@ -83,4 +83,4 @@
     2 puan olarak sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur.
 ![Screenshot_2020-10-27-21-45-04-417_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970786-3f8993e4-7f34-44f9-82e4-aed4ce8813d7.jpg)
 ## Dipnot
-    Uygulamanın Kaynak kodu ve Apk(Çalışır halini) ekleri klasör olarak ekledim.
+    Uygulamanın Kaynak kodunu ve Apk(Çalışır halini) ekleri klasör olarak ekledim.
