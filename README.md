@@ -125,4 +125,4 @@
 
 
 ## Dipnot
-   Uygulamanın Kaynak kodunu ve Apk(Çalışır halini) ekleri klasör olarak ekledim.
+   Uygulamanın Kaynak kodununun içerisinde Apk(Çalışır) hali klasörde mevcut.
