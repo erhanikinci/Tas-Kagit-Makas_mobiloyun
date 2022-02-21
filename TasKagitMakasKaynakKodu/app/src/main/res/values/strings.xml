@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TAŞ KAĞIT MAKAS OYUNU</string>
+    <string name="oyuncu_secimi">Oyuncu Seçimi</string>
+    <string name="bilgisayar_secimi">Bilgisayar Seçimi</string>
+    <string name="sonuc">Sonuç Oyuncu: 0   Bilgisayar: 0</string>
+    <string name="tas">TAŞ</string>
+    <string name="kagit">KAĞIT</string>
+    <string name="makas">MAKAS</string>
+
+</resources>
