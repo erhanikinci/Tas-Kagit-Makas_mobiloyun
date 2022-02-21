@@ -23,11 +23,11 @@
   
 ## Taş
     • El yumruk şeklindedir.
-    ![rock](https://user-images.githubusercontent.com/81168263/154966487-5f68dde0-79e7-4c19-bf4f-8f53c1b41bc3.png)
+![rock](https://user-images.githubusercontent.com/81168263/154966487-5f68dde0-79e7-4c19-bf4f-8f53c1b41bc3.png)
   
 ## Kağıt
     • El tamamen açık parmaklar birbirine yapışıktır.
-  
+![paper](https://user-images.githubusercontent.com/81168263/154966997-896f47d4-18bc-44d7-ae0b-2ff7d88c3d2f.png)  
 ## Makas
     • Elin işaret parmağı ve orta parmağı hariç bütün parmaklar avuç içine kıvrılmıştır, işaret
     parmağı ve orta parmak birbirinden ayrıktır.
