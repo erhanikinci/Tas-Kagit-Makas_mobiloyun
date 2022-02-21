@@ -75,7 +75,7 @@
     bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği bilindiği üzere Makas keser Kağıdı ve bu durumda yine Oyuncu
     kazanmış olur ve aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha eklenir. Oyuncu 4 Bilgisayar 1 puan 
     olarak sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur.
-    
+![Screenshot_2020-10-27-21-44-57-882_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970767-84b34721-b06b-4689-824b-6d3337cfb410.jpg)    
 #### 6
     Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan Aşağıda görüldüğü gibi Oyuncu Seçimi olarak Taş’ ı seçtiğimde 
     bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği bilindiği üzere Kağıt sarar Taşı ve bu durumda Bilgisayar
