@@ -31,7 +31,7 @@
 ## Makas
     • Elin işaret parmağı ve orta parmağı hariç bütün parmaklar avuç içine kıvrılmıştır, işaret
     parmağı ve orta parmak birbirinden ayrıktır.
-  
+![scissors](https://user-images.githubusercontent.com/81168263/154967009-f3382e20-e0b3-4600-870c-f38d46d5b9b3.png)  
 ## Uygulamanın yüklenmesi ve çalıştırılması işlemi  
      Bu uygulama Playstore’dan Telefon|Tablet|Bilgisayar’ dan indirilip cihaza yüklendiğinde
      aşağıdaki resimde okların gösterildiği gibi bir simge ile cihaza yüklenmiş olur.
