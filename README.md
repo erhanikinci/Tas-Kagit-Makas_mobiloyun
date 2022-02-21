@@ -48,7 +48,7 @@
     seçerek oyun içindeki seçimini yapmış olur. Oyun içerisinde Oyuncu Seçiminden Makası seçtiğimde bilgisayar ise rastgele olarak 
     Kağıdı seçmiş oldu ve bu durumda oyunun kuralları gereği bilindiği üzere Makas keser Kağıdı ve Oyuncu Bilgisayar’a karşı bu eli
     kazanmış olur. Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanı 1 Bilgisayarın Puanı ise 0 olur.
-
+![Screenshot_2020-10-27-21-44-32-361_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970710-91596dc9-0c90-48b0-b808-e4b7355b375d.jpg)
 
 #### 2
     Oyuna devam ettiğimde ve ben bu sefer butonlardan Taş’ ı seçtiğimde bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği 
