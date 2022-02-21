@@ -23,6 +23,7 @@
   
 ## Taş
     • El yumruk şeklindedir.
+    ![rock](https://user-images.githubusercontent.com/81168263/154966487-5f68dde0-79e7-4c19-bf4f-8f53c1b41bc3.png)
   
 ## Kağıt
     • El tamamen açık parmaklar birbirine yapışıktır.
