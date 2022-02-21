@@ -54,7 +54,7 @@
     Oyuna devam ettiğimde ve ben bu sefer butonlardan Taş’ ı seçtiğimde bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği 
     bilindiği üzere Kağıt sarar Taşı ve bu durumda bilgisayar kazanmış olur ve bilgisayarın sonucuna 1 Puan eklenir ve bu durumda Oyuncu
     1 Bilgisayar 1 olur. Berabere durum söz konusu olur.
-  
+![Screenshot_2020-10-27-21-44-39-486_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970728-0fd52364-a098-4e3c-9b11-1e21f17d9f65.jpg)  
 #### 3
     Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan yine Taş’ ı seçtiğimde bilgisayar rasgele olarak Makas’ ı seçer ve
     oyun kuralları gereği bilindiği üzere Taş kırar Makası ve Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha
