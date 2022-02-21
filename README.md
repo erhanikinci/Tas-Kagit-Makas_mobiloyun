@@ -60,7 +60,7 @@
     oyun kuralları gereği bilindiği üzere Taş kırar Makası ve Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha
     eklenir ve Oyuncu 2 Bilgisayar 1 oyuncu kazanmış olur sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara
     karşı puan olarak daha önde olur. 
-    
+![Screenshot_2020-10-27-21-44-45-965_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970739-2017fab2-5479-40e8-923c-0449eb22c145.jpg)   
     
 #### 4
     Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan Aşağıda görüldüğü gibi Kağıt’ ı seçtiğimde bilgisayar rasgele olarak
