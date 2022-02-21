@@ -66,27 +66,42 @@
      Bu programda Oyuncunun Bilgisayara karşı oynanması durumda oyuncunun aşağıdaki butonlardan istediğinden birini(Taş|Kağıt|Makas)
      seçerek oyun içindeki seçimini yapmış olur. Oyun içerisinde Oyuncu Seçiminden Makası seçtiğimde bilgisayar ise rastgele olarak 
      Kağıdı seçmiş oldu ve bu durumda oyunun kuralları gereği bilindiği üzere Makas keser Kağıdı ve Oyuncu Bilgisayar’a karşı bu eli
-     kazanmış olur. Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanı 1 Bilgisayarın Puanı ise 0 olur.
-![Screenshot_2020-10-27-21-44-32-361_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970710-91596dc9-0c90-48b0-b808-e4b7355b375d.jpg)
+     kazanmış olur. Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanı 1 Bilgisayarın Puanı ise 0 olur.    
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970710-91596dc9-0c90-48b0-b808-e4b7355b375d.jpg">
+</p>     
+
 
 #### 2
      Oyuna devam ettiğimde ve ben bu sefer butonlardan Taş’ ı seçtiğimde bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği 
      bilindiği üzere Kağıt sarar Taşı ve bu durumda bilgisayar kazanmış olur ve bilgisayarın sonucuna 1 Puan eklenir ve bu durumda Oyuncu
      1 Bilgisayar 1 olur. Berabere durum söz konusu olur.
-![Screenshot_2020-10-27-21-44-39-486_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970728-0fd52364-a098-4e3c-9b11-1e21f17d9f65.jpg)  
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970728-0fd52364-a098-4e3c-9b11-1e21f17d9f65.jpg">
+</p>       
+     
+
+
 #### 3
      Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan yine Taş’ ı seçtiğimde bilgisayar rasgele olarak Makas’ ı seçer ve
      oyun kuralları gereği bilindiği üzere Taş kırar Makası ve Aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha
      eklenir ve Oyuncu 2 Bilgisayar 1 oyuncu kazanmış olur sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara
      karşı puan olarak daha önde olur. 
-![Screenshot_2020-10-27-21-44-45-965_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970739-2017fab2-5479-40e8-923c-0449eb22c145.jpg)   
-    
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970739-2017fab2-5479-40e8-923c-0449eb22c145.jpg">
+</p>      
+
+
 #### 4
      Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan Aşağıda görüldüğü gibi Kağıt’ ı seçtiğimde bilgisayar rasgele olarak
      Taş’ ı seçer ve oyun kuralları gereği bilindiği üzere Kağıt sarar Taşı ve bu durumda yine Oyuncu kazanmış olur ve aşağıda gösterildiği
      gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha eklenir. Oyuncu 3 Bilgisayar 1 puan olarak sonuç tablosu güncellenir ve bu durumda
-     görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur. 
-![Screenshot_2020-10-27-21-44-51-970_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970752-3280c519-a9a0-4799-b14a-8f0764bcfba0.jpg)    
+     görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur.
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970752-3280c519-a9a0-4799-b14a-8f0764bcfba0.jpg">
+</p>      
+
+
     
     
 #### 5
@@ -94,12 +109,20 @@
      bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği bilindiği üzere Makas keser Kağıdı ve bu durumda yine Oyuncu
      kazanmış olur ve aşağıda gösterildiği gibi Sonuç tablosunda Oyuncunun Puanına +1 puan daha eklenir. Oyuncu 4 Bilgisayar 1 puan 
      olarak sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur.
-![Screenshot_2020-10-27-21-44-57-882_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970767-84b34721-b06b-4689-824b-6d3337cfb410.jpg)    
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970767-84b34721-b06b-4689-824b-6d3337cfb410.jpg">
+</p>     
+
+
 #### 6
      Oyuna kaldığı yerden devam ettiğimde ve ben bu sefer butonlardan Aşağıda görüldüğü gibi Oyuncu Seçimi olarak Taş’ ı seçtiğimde 
      bilgisayar rasgele olarak Kağıt’ ı seçer ve oyun kuralları gereği bilindiği üzere Kağıt sarar Taşı ve bu durumda Bilgisayar
      kazanmış olur ve aşağıda gösterildiği gibi Sonuç tablosunda Bilgisayarın Puanına +1 puan daha eklenir. Oyuncu 4 Bilgisayar
      2 puan olarak sonuç tablosu güncellenir ve bu durumda görüldüğü üzere oyuncu bilgisayara karşı puan olarak daha önde olur.
-![Screenshot_2020-10-27-21-45-04-417_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970786-3f8993e4-7f34-44f9-82e4-aed4ce8813d7.jpg)
+ <p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154970786-3f8993e4-7f34-44f9-82e4-aed4ce8813d7.jpg">
+</p>     
+
+
 ## Dipnot
    Uygulamanın Kaynak kodunu ve Apk(Çalışır halini) ekleri klasör olarak ekledim.
