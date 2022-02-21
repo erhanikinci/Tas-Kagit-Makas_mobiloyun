@@ -42,7 +42,7 @@
     Oyun kullanıcının bilgisayara karşı oynama durumu aşağıdaki gibi ekranda belirir, oyunda aşağıda görüldüğü gibi 3 adet buton bulunmaktadır. 
     Oyuncu kendi isteğine bağlı olarak bu butonlardan birini seçip butona tıklar ve aynı anda bilgisayarda rasgele olarak bir seçim yapar. 
     Oyuncunun seçimi ile Bilgisayarın seçimine bağlı olarak oyunun kazanma durumu ekranda bildiri olarak ve sonuç tablosunda belirir.
-
+![Screenshot_2020-10-27-21-43-48-046_com erhanikinci taskagitmakas1453](https://user-images.githubusercontent.com/81168263/154970537-a1de0cf1-d643-41cf-af35-c57f87f67af1.jpg)
 #### 1
     Bu programda Oyuncunun Bilgisayara karşı oynanması durumda oyuncunun aşağıdaki butonlardan istediğinden birini(Taş|Kağıt|Makas)
     seçerek oyun içindeki seçimini yapmış olur. Oyun içerisinde Oyuncu Seçiminden Makası seçtiğimde bilgisayar ise rastgele olarak 
